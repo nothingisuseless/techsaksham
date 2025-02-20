@@ -7,5 +7,8 @@
 ## Libraries Used : streamlit, ollama_project, langchain, warnings, tempfile, textwrap
 
 ## Functionality : 
+
 GUI based on streamlit.
-RAG based model which provides contextual information from the document uploaded. 
+
+RAG based model which provides contextual information from the document uploaded. This reduces risk of hallucination.
+
