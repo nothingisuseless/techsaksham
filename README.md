@@ -12,3 +12,6 @@ GUI based on streamlit.
 
 RAG based model which provides contextual information from the document uploaded. This reduces risk of hallucination.
 
+## Run the model
+
+**streamlit run** healthcare_assistant_app.py
